@@ -1,4 +1,4 @@
-# Credit Risk Classification
+# Credit Risk Classification //  Scalable Loan Risk Prediction
 
 ## Background
 In this challenge, the goal is to use machine learning techniques to train and evaluate a model based on loan risk. We will utilize a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
